@@ -9,12 +9,19 @@ Encontraréis el archivo donde se desarrolla la dinamica.
 Entre los conceptos trabajados se incluyen:
 
 · Variables y tipos.
+
 · Operadores.
+
 · Condicionales ('if', 'elif', 'else').
+
 · Bucles ('for').
+
 · Funciondes ('def').
+
 · Diccionarios.
+
 · Lógica básica de programación.
+
 · Resolución de pequeños retos.
 
 ## 🧠 Objetivo del ejercicio
@@ -24,9 +31,11 @@ El objetivo de esta práctica es *consolidar los fundamentos de Python* mediante
 ## 🛠 Tecnologías utilizadas
 
 · Python.
+
 · Jupyter Notebook.
 
 ## 📁 Estructura del repositorio
 
 · README: en el punto donde os encontraís, con una pequeña descripción del ejercicio.
+
 · ARCHIVO '.ipynb': documento con el ejercicio desarrollado.
